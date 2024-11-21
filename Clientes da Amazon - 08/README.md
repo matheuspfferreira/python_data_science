@@ -8,7 +8,6 @@ Este projeto de Data Science tem como objetivo explorar e compreender o perfil d
 
 ## Principais Objetivos
 - Analisar feedbacks de clientes para identificar padrões
-- Compreender preferências e comportamentos dos consumidores
 - Criar visualizações no Power BI para comunicar insights de forma clara
 
 Este projeto busca fornecer informações úteis para entender melhor os clientes da Amazon e direcionar estratégias com base em dados.
